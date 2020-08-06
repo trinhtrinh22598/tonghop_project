@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Device Management</string>
+    <string name="chucnang">Function</string>
+    <string name="ds">Device List</string>
+    <string name="ten">Enter Your Name</string>
+    <string name="ma">Enter the device Code</string>
+    <string name="them">Add</string>
+    <string name="xoa">Delete</string>
+    <string name="sua">Update</string>
+    <string name="thoat">Exit</string>
+    <string name="thongtin">Device information</string>
+</resources>

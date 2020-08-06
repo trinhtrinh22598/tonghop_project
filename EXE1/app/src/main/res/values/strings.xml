@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quản lí thiết bị trường học</string>
+    <string name="thongtin">Thông Tin Thiết Bị</string>
+    <string name="ma">Nhập Mã loại</string>
+    <string name="ten">Nhập Tên loại</string>
+    <string name="chucnang">Chức Năng</string>
+    <string name="them">Thêm</string>
+    <string name="xoa">Xóa</string>
+    <string name="sua">Sửa</string>
+    <string name="thoat">Thoát</string>
+    <string name="ds">Danh Sách Thiết bị</string>
+
+</resources>
